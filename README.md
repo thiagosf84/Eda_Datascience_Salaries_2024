@@ -24,3 +24,4 @@ A análise foi conduzida utilizando Python, com bibliotecas como Pandas para man
 * Top 5 países com mais vagas para Entry Level: Análise das localizações geográficas com maior demanda por profissionais iniciantes.
 * Salários médios por modelo de trabalho: Comparação dos salários para trabalhos presenciais, remotos e híbridos.
 * Salários médios por tipo de contrato: Insights sobre como diferentes tipos de contratação impactam os salários de entrada.
+* Evolução na quantidade de vagas para o Entry Level de modo geral e no cargo de Analista de Dados
